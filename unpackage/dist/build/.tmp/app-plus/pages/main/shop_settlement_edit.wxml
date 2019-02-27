@@ -1,0 +1,2 @@
+<import src="./shop_settlement_edit.vue.wxml" />
+    <template is="2c2905d8" data="{{ ...$root['0'], $root }}"/>

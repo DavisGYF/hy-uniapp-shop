@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/main/user",
+    "pages/main/sett",
+    "pages/login/pwd",
+    "pages/login/register",
+    "pages/main/set_edit_pwd",
+    "pages/main/financial_acc_card_add",
+    "pages/main/sales_add",
+    "pages/main/financial_account",
+    "pages/main/financial_acc_apply",
+    "pages/main/shop_info_edit",
+    "pages/main/shop_info_edit1",
+    "pages/main/shop_info_edit2",
+    "pages/main/shop_info_edit3",
+    "pages/main/shop_settlement_edit",
+    "pages/main/shop_add",
+    "pages/main/shop_add3",
+    "pages/main/shop_add2",
+    "pages/main/shop_add1",
+    "pages/main/shop_pic_add",
+    "pages/main/shop_pic_detail_add",
+    "pages/main/img_qr",
+    "pages/main/shop_business_time",
+    "pages/main/financial_water",
+    "pages/main/financial_acc_apply_record",
+    "pages/main/sales",
+    "pages/main/financial_account_card",
+    "pages/main/shop_info",
+    "pages/main/shop_settlement",
+    "pages/main/shop_pic",
+    "pages/main/shop_pic_detail",
+    "pages/main/shop_img_detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#0faeff",
+    "backgroundColor": "#fbf9fe"
+  },
+  "usingComponents": {},
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "百业通惠商家端"
+}

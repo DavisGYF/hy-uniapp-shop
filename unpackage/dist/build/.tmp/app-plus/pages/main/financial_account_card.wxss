@@ -1,0 +1,23 @@
+page.data-v-7f65e53c {
+  height: auto;
+  min-height: 100%;
+}
+.uni-list.data-v-7f65e53c {
+  background-color: #EFEFF4;
+}
+.uni_list_cell.data-v-7f65e53c {
+  background-color: #fff;
+  margin-bottom: 10rpx;
+  padding: 20rpx 80rpx;
+  line-height: 1;
+  height: 250rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.uni_list_cell .number.data-v-7f65e53c {
+  font-size: 60rpx;
+}
+.uni_list_cell .text .font_big.data-v-7f65e53c {
+  font-size: 40rpx;
+}
+

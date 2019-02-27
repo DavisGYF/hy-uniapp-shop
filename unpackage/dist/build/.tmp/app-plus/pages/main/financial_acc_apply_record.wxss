@@ -1,0 +1,20 @@
+
+.cell_top.data-v-6f154616{
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background-color: #fff;
+  padding: 20rpx 44rpx 0 44rpx;
+  margin-bottom: -26rpx;
+}
+.text_light.data-v-6f154616{
+  font-size: 13px;
+  color: #888;
+}
+
+

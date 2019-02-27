@@ -1,0 +1,13 @@
+
+      !(function(){
+        var uniAppViewReadyCallback = function(){
+          setCssToHead([".",[1],"img-clip.",[1],"data-v-8fb3c662 { position: relative; width: 95%; margin: 0 auto; padding: 0; }\n.",[1],"img-clip .",[1],"_canvas.",[1],"data-v-8fb3c662 { display: block; }\n.",[1],"img-clip .",[1],"magnifier.",[1],"data-v-8fb3c662 { position: absolute; top: -90px; right: 0; width: 80px; height: 80px; border-radius: 50%; border: 2px solid #fff; }\n.",[1],"img-clip .",[1],"clip-hidden.",[1],"data-v-8fb3c662 { display: none; }\n.",[1],"img-clip .",[1],"clip-rect.",[1],"data-v-8fb3c662 { position: absolute; border: 1px dashed #de3c50; top: 10px; left: 10px; width: 100px; height: 100px; cursor: move; }\n.",[1],"img-clip .",[1],"clip-rect .",[1],"clip-tips.",[1],"data-v-8fb3c662 { position: absolute; top: -40px; left: 0; padding: 5px; font-size: 13px; background-color: #333; border-radius: 5px; color: #fff; }\n.",[1],"img-clip .",[1],"clip-rect-horn.",[1],"data-v-8fb3c662 { position: absolute; display: block; background-color: rgba(222,60,80,0.7); border-radius: 50%; width: 20px; height: 20px; }\n.",[1],"img-clip .",[1],"horn-n.",[1],"data-v-8fb3c662 { top: -10px; left: 50%; margin-left: -10px; cursor: n-resize; }\n.",[1],"img-clip .",[1],"horn-s.",[1],"data-v-8fb3c662 { bottom: -10px; left: 50%; margin-left: -10px; cursor: s-resize; }\n.",[1],"img-clip .",[1],"horn-w.",[1],"data-v-8fb3c662 { top: 50%; left: -10px; margin-top: -10px; cursor: w-resize; }\n.",[1],"img-clip .",[1],"horn-e.",[1],"data-v-8fb3c662 { top: 50%; right: -10px; margin-top: -10px; cursor: e-resize; }\n.",[1],"img-clip .",[1],"horn-nw.",[1],"data-v-8fb3c662 { top: -10px; left: -10px; cursor: nw-resize; }\n.",[1],"img-clip .",[1],"horn-ne.",[1],"data-v-8fb3c662 { top: -10px; right: -10px; cursor: ne-resize; }\n.",[1],"img-clip .",[1],"horn-sw.",[1],"data-v-8fb3c662 { bottom: -10px; left: -10px; cursor: sw-resize; }\n.",[1],"img-clip .",[1],"horn-se.",[1],"data-v-8fb3c662 { bottom: -10px; right: -10px; cursor: se-resize; }\n.",[1],"uni-view.",[1],"data-v-8fb3c662 { width: inherit; }\n.",[1],"infoWarp.",[1],"data-v-8fb3c662 { border-bottom: 1px solid #c8c7cc; padding: 0 ",[0,40],"; background-color: #fff; }\n.",[1],"infoWarp .",[1],"uni-textarea-textarea.",[1],"data-v-8fb3c662 { line-height: 0.5; }\n.",[1],"uni-input.",[1],"data-v-8fb3c662 { text-align: right; }\n",],undefined,{path:"./pages/main/shop_add1.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/main/shop_add1.wxml') } }));
+        }
+        if(window.__uniAppViewReady__){
+          uniAppViewReadyCallback()
+        }else{
+          document.addEventListener('uniAppViewReady',uniAppViewReadyCallback)
+        }
+      })();
+      

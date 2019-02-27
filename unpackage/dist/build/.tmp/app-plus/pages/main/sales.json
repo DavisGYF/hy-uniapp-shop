@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "优惠活动",
+  "enablePullDownRefresh": true,
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "+ ",
+        "width": "auto",
+        "background": "red"
+      }
+    ]
+  }
+}

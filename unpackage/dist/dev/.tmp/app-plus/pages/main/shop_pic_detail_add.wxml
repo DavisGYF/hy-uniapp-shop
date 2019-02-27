@@ -1,0 +1,2 @@
+<import src="./shop_pic_detail_add.vue.wxml" />
+    <template is="8644d7e0" data="{{ ...$root['0'], $root }}"/>

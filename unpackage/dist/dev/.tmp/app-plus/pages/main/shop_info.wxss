@@ -1,0 +1,280 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .content{padding:0 15upx;background-color: white;} */
+.uni-view.data-v-0f0136cd {
+  width: inherit;
+}
+.uni-list-cell.data-v-0f0136cd {
+  padding: 24rpx 36rpx;
+}
+.uni-uploader__file.data-v-0f0136cd {}
+.infoWarp.data-v-0f0136cd {
+  border-bottom: 1rpx solid #efeff4;
+  padding: 10rpx 32rpx;
+  background-color: #fff;
+}
+.infoWarp .uni-textarea-textarea.data-v-0f0136cd {
+  line-height: 0.5;
+}
+.uni_title.data-v-0f0136cd {
+  margin-top: 20rpx;
+}
+.uni-btn-v.data-v-0f0136cd {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 92%;
+  background-color: #fff;
+}
+
+/* .page_head_warper{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    width: 100%;
+  } */
+

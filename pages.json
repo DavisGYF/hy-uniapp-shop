@@ -1,0 +1,364 @@
+{
+  "pages": [ //pages数组中第一项表示应用启动页,
+
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "登录",
+        "titleNView": false
+      }
+    },
+    {
+      "path": "pages/main/user",
+      "style": {
+        "navigationBarTitleText": "百业通惠商家端",
+        "titleNView": false
+
+      }
+    },
+    {
+      "path": "pages/main/sett",
+      "style": {
+        "navigationBarTitleText": "设置"
+      }
+    },
+    {
+      "path": "pages/login/pwd",
+      "style": {
+        "navigationBarTitleText": "找回密码"
+      }
+    },
+    {
+      "path": "pages/login/register",
+      "style": {
+        "navigationBarTitleText": "注册"
+      }
+    },
+    {
+      "path": "pages/main/set_edit_pwd",
+      "style": {
+        "navigationBarTitleText": "修改密码"
+      }
+    },
+    {
+      "path": "pages/main/financial_acc_card_add",
+      "style": {
+        "navigationBarTitleText": "添加银行卡"
+      }
+    },
+    {
+      "path": "pages/main/sales_add",
+      "style": {
+        "navigationBarTitleText": "添加优惠活动"
+      }
+    },
+
+    {
+      "path": "pages/main/financial_account",
+      "style": {
+        "navigationBarTitleText": "财务提现",
+        "titleNView": false
+      }
+    },
+    {
+      "path": "pages/main/financial_acc_apply",
+      "style": {
+        "navigationBarTitleText": "申请提现"
+      }
+    },
+    {
+      "path": "pages/main/shop_info_edit",
+      "style": {
+        "navigationBarTitleText": "店铺信息编辑",
+        "usingComponents": {
+          "van-button": "/wxcomponents/vant/dist/button/index",
+          "van-swipe-cell": "/wxcomponents/vant/dist/swipe-cell/index",
+          "van-steps": "/wxcomponents/vant/dist/steps/index"
+        }
+      }
+    },
+    {
+      "path": "pages/main/shop_info_edit1",
+      "style": {
+        "navigationBarTitleText": "店铺编辑-基本信息",
+        "usingComponents": {
+          "van-button": "/wxcomponents/vant/dist/button/index",
+          "van-swipe-cell": "/wxcomponents/vant/dist/swipe-cell/index",
+          "van-steps": "/wxcomponents/vant/dist/steps/index"
+        }
+      }
+    },
+    {
+      "path": "pages/main/shop_info_edit2",
+      "style": {
+        "navigationBarTitleText": "店铺编辑-店铺介绍",
+        "usingComponents": {
+          "van-button": "/wxcomponents/vant/dist/button/index",
+          "van-swipe-cell": "/wxcomponents/vant/dist/swipe-cell/index",
+          "van-steps": "/wxcomponents/vant/dist/steps/index"
+        }
+      }
+    },
+    {
+      "path": "pages/main/shop_info_edit3",
+      "style": {
+        "navigationBarTitleText": "店铺编辑-证件上传",
+        "usingComponents": {
+          "van-button": "/wxcomponents/vant/dist/button/index",
+          "van-swipe-cell": "/wxcomponents/vant/dist/swipe-cell/index",
+          "van-steps": "/wxcomponents/vant/dist/steps/index"
+        }
+      }
+    },
+    {
+      "path": "pages/main/shop_settlement_edit",
+      "style": {
+        "navigationBarTitleText": "结算信息编辑"
+      }
+    },
+    {
+      "path": "pages/main/shop_add",
+      "style": {
+        "navigationBarTitleText": "店铺新增",
+        "usingComponents": {
+          "van-steps": "/wxcomponents/vant/dist/steps/index"
+        }
+      }
+    },
+    {
+      "path": "pages/main/shop_add3",
+      "style": {
+        "navigationBarTitleText": "店铺注册-证件上传"
+      }
+    },
+    {
+      "path": "pages/main/shop_add2",
+      "style": {
+        "navigationBarTitleText": "店铺注册-店铺介绍"
+      }
+    },
+    {
+      "path": "pages/main/shop_add1",
+      "style": {
+        "navigationBarTitleText": "店铺注册-基本信息"
+      }
+    },
+    {
+      "path": "pages/main/shop_pic_add",
+      "style": {
+        "navigationBarTitleText": "新增店铺相册"
+      }
+    },
+    {
+      "path": "pages/main/shop_pic_detail_add",
+      "style": {
+        "navigationBarTitleText": "店铺相册新增照片"
+      }
+    },
+    {
+      "path": "pages/main/img_qr",
+      "style": {
+        "navigationBarTitleText": "店铺二维码"
+      }
+    },
+
+    {
+      "path": "pages/main/shop_business_time",
+      "style": {
+        "navigationBarTitleText": "营业时间"
+      }
+    },
+    {
+      "path": "pages/main/financial_water",
+      "style": {
+        "navigationBarTitleText": "交易记录",
+        "enablePullDownRefresh": true
+      }
+    },
+
+    /* {
+    	"path": "pages/main/main",
+    	"style": {
+    		"navigationBarTitleText": "主页",
+    		"app-plus": {
+    			"titleNView": {
+    				"type": "transparent"
+    			}
+    		}
+    	}
+    },
+     
+     */
+
+    {
+      "path": "pages/main/financial_acc_apply_record",
+      "style": {
+        "navigationBarTitleText": "提现记录",
+        "app-plus": {
+          "pullToRefresh": {
+            "support": true,
+            "color": "#ff3333",
+            "style": "default",
+            "contentdown": {
+              "caption": "下拉可刷新"
+            },
+            "contentover": {
+              "caption": "释放可刷新"
+            },
+            "contentrefresh": {
+              "caption": "正在刷新"
+            }
+          }
+        }
+      }
+    },
+    {
+      "path": "pages/main/sales",
+      "style": {
+        // "type":"transparent",
+        "navigationBarTitleText": "优惠活动",
+        "enablePullDownRefresh": true,
+//         "app-plus" : {
+//             "titleNView" : {
+//                 "buttons" : [
+//                     {
+//                         "type" : "menu"
+//                     }
+//                 ]
+//             }
+//         }
+        "app-plus": {
+          "titleNView": {
+            "buttons": [{
+              "text": "+ ",
+              // "fontSize": "60upx",
+              // "colorPressed": "0.2",
+              "width":"auto",
+              "background":"red"
+            }]
+          }
+          // "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/main/financial_account_card",
+      "style": {
+        // "navigationBarTitleText": "提现账户",//这个按钮在app上不好用
+        "app-plus": {
+          "bounce": "none",
+          "titleNView": {
+            "buttons": [{
+              "text": "+ ",
+              "fontSize": "60upx",
+              "colorPressed": "0.2"
+            }]
+          }
+        }
+      }
+    },
+    {
+      "path": "pages/main/shop_info",
+      "style": {
+        "navigationBarTitleText": "店铺基本信息",
+        "app-plus": {
+          "bounce": "none",
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/main/shop_settlement",
+      "style": {
+        "navigationBarTitleText": "结算信息",
+        "app-plus": {
+          "bounce": "none",
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/main/shop_pic",
+      "style": {
+        "navigationBarTitleText": "店铺相册",
+        "app-plus": {
+          "bounce": "none",
+          "titleNView": false
+        }
+      }
+    },
+
+    {
+      "path": "pages/main/shop_pic_detail",
+      "style": {
+        "navigationBarTitleText": "店铺相册详情",
+        "app-plus": {
+          "bounce": "none",
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/main/shop_img_detail",
+      "style": {
+        "navigationBarTitleText": "图片",
+        "app-plus": {
+          "bounce": "none",
+          "titleNView": false
+        },
+        "h5": {
+          "titleNView": {
+            "buttons": [
+              /* {
+              	"type": "close"
+              }, */
+              {
+                "text": "删除",
+                "fontSize": "16upx",
+                "colorPressed": "0.2"
+              }
+            ]
+          }
+        }
+
+      }
+    }
+
+  ],
+  // 	"tabBar": {
+  // 		"color": "#7a7e83",
+  // 		"selectedColor": "#0faeff",
+  // 		"backgroundColor": "#ffffff",
+  // 		"list": [
+  // 			// 			{
+  // 			// 				"pagePath": "pages/main/main",
+  // 			// 				"text": "首页",
+  // 			// 				"iconPath": "static/img/home.png",
+  // 			// 				"selectedIconPath": "static/img/homeHL.png"
+  // 			// 			},
+  // 			// 			{
+  // 			// 				"pagePath": "pages/user/user1",
+  // 			// 				"text": "登陆"
+  // 			// 			},
+  // 			{
+  // 				"pagePath": "pages/main/user",
+  // 				"backgroundColor": "#ddd",
+  // 				"text": "我的"
+  // 				
+  // 			}
+  // 		]
+  // 	},
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#0faeff",
+    "backgroundColor": "#fbf9fe"
+  },
+  "condition": { //模式配置，仅开发期间生效
+    "current": 0, //当前激活的模式(list 的索引项)
+    "list": [{
+      "name": "", //模式名称
+      "path": "", //启动页面，必选
+      "query": "" //启动参数，在页面的onLoad函数里面得到
+    }]
+  }
+}

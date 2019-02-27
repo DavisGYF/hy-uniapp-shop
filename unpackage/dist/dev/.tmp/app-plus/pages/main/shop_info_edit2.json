@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "店铺编辑-店铺介绍",
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant/dist/button/index",
+    "van-swipe-cell": "/wxcomponents/vant/dist/swipe-cell/index",
+    "van-steps": "/wxcomponents/vant/dist/steps/index"
+  }
+}

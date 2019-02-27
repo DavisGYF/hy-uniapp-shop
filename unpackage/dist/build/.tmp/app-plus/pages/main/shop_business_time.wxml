@@ -1,0 +1,2 @@
+<import src="./shop_business_time.vue.wxml" />
+    <template is="9a5b0f38" data="{{ ...$root['0'], $root }}"/>

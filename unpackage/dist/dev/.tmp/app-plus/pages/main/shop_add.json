@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "店铺新增",
+  "usingComponents": {
+    "van-steps": "/wxcomponents/vant/dist/steps/index"
+  }
+}

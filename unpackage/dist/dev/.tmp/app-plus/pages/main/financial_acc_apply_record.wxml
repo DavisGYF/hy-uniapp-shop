@@ -1,0 +1,2 @@
+<import src="./financial_acc_apply_record.vue.wxml" />
+    <template is="98ec4192" data="{{ ...$root['0'], $root }}"/>

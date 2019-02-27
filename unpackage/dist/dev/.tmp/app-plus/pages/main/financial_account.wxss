@@ -1,0 +1,21 @@
+
+page.data-v-0a549e26{
+	height: auto;
+	min-height: 100%;
+}
+.uni-card.data-v-0a549e26 {
+	-webkit-box-shadow: none;
+	        box-shadow: none;
+}
+.uni-list.data-v-0a549e26 {
+	background-color: #EFEFF4;
+}
+.uni-list-cell.data-v-0a549e26 {
+	background-color: #fff;
+	margin-bottom: upx;
+	padding: 28rpx 34rpx;
+}
+.btn-submit.data-v-0a549e26{
+	background-color: #0FAEFF;
+}
+

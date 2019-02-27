@@ -1,0 +1,12 @@
+{
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "+ ",
+        "fontSize": "60upx",
+        "colorPressed": "0.2"
+      }
+    ]
+  }
+}

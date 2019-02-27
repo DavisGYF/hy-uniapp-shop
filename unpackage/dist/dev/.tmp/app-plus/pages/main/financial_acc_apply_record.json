@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "提现记录",
+  "pullToRefresh": {
+    "support": true,
+    "color": "#ff3333",
+    "style": "default",
+    "contentdown": {
+      "caption": "下拉可刷新"
+    },
+    "contentover": {
+      "caption": "释放可刷新"
+    },
+    "contentrefresh": {
+      "caption": "正在刷新"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+
+.disFlex.data-v-6e26f1e4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: auto;
+}
+

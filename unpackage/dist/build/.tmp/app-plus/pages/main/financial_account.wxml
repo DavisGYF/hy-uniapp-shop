@@ -1,0 +1,2 @@
+<import src="./financial_account.vue.wxml" />
+    <template is="1b03bb54" data="{{ ...$root['0'], $root }}"/>

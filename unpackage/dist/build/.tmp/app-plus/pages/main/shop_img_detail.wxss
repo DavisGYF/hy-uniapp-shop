@@ -1,0 +1,79 @@
+
+@font-face {
+	font-family: texticons;
+	font-weight: normal;
+	font-style: normal;
+	src: url('https://at.alicdn.com/t/font_702773_g9f89om4v3j.ttf') format('truetype');
+}
+page.data-v-a82839a2 {
+	background-color: #000;
+}
+swiper.data-v-a82839a2 {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+	width: 750rpx;
+	background-color: #000;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+swiper-item.data-v-a82839a2 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+image.data-v-a82839a2 {
+	width: 750rpx;
+	height: 1125rpx;
+}
+.uni-page-head.data-v-a82839a2{
+	/* border: 1px solid red; */
+}
+.uni-page-head .uni-btn-icon.data-v-a82839a2{
+	font-size: 18px important!;
+	border: 1px solid red;
+}
+.detail-btn-view.data-v-a82839a2 {
+	/* width: 750upx; */
+	position: fixed;
+	bottom: 75rpx;
+	right: 20rpx;
+	font-size: 28rpx;
+}
+.detail-btn-view .icon_wrap.data-v-a82839a2 {
+	opacity: 0.75;
+	border-radius: 80rpx;
+	width: 120rpx;
+	height: 100rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	padding-bottom: 6px;
+	background: #eee;
+	color: #555;
+}
+
+
+

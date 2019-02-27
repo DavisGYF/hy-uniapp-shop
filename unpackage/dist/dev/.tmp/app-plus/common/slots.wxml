@@ -1,0 +1,21 @@
+<import src="/components/uni-popup.vue.wxml" />
+<import src="/components/uni-icon.vue.wxml" />
+<import src="/components/page-head.vue.wxml" />
+<import src="/components/m-input.vue.wxml" />
+<import src="/components/uni-segmented-control.vue.wxml" />
+<import src="/common/mpvue-citypicker/mpvueCityPicker.vue.wxml" />
+<import src="/components/m-icon/m-icon.vue.wxml" />
+<import src="/common/slots.wxml" />
+
+<template name="data-v-4978e4d2-default-169130c4-0"><button class="_button data-v-4978e4d2 pop_button" type="primary" bindtap="handleProxy" data-eventid="{{'169130c4-0'}}" data-comkey="{{$k}}">下载当前照片</button></template>
+
+<template name="data-v-73c741dd-default-9a5b0f38-2"><view class="_view data-v-73c741dd"><form class="_form data-v-73c741dd"><view class="_view data-v-73c741dd cell_top">请选择</view><view class="_view data-v-73c741dd uni-list" style="background-color: none;"><checkbox-group bindchange="handleProxy" data-eventid="{{'9a5b0f38-4'}}" data-comkey="{{$k}}" class="_checkbox-group data-v-73c741dd"><label class="_label data-v-73c741dd uni-list-cell uni-list-cell-pd" wx:key="index" key="{{index}}" wx:for="{{items}}" wx:for-index="index" wx:for-item="item"><view class="_view data-v-73c741dd"><checkbox value="{{item.name}}" checked="{{item.checked}}" class="_checkbox data-v-73c741dd"></checkbox></view><view class="_view data-v-73c741dd">{{item.name}}</view></label></checkbox-group></view><view style="display: flex;" class="_view data-v-73c741dd"><view class="_view data-v-73c741dd btn btn1" bindtap="handleProxy" data-eventid="{{'9a5b0f38-5'}}" data-comkey="{{$k}}">确定</view><view class="_view data-v-73c741dd btn" bindtap="handleProxy" data-eventid="{{'9a5b0f38-6'}}" data-comkey="{{$k}}">取消</view></view></form></view></template>
+
+<template name="data-v-2f35d002-default-18f08d6b-0"><button class="_button data-v-2f35d002 pop_button" type="warn" bindtap="handleProxy" data-eventid="{{'18f08d6b-3'}}" data-comkey="{{$k}}">删除</button></template>
+
+<template name="data-v-b872088a-default-8d5287fc-2"><view class="_view data-v-b872088a"><form class="_form data-v-b872088a"><view class="_view data-v-b872088a cell_top">新增店铺相册</view><view class="_view data-v-b872088a uni-list" style="background-color: none;"><view class="_view data-v-b872088a uni-list-cell"><label class="_label data-v-b872088a">相册姓名</label><view class="_view data-v-b872088a"><input class="_input data-v-b872088a uni-input" value="{{img_cat}}" bindinput="handleProxy" placeholder="请输入" data-eventid="{{'8d5287fc-3'}}" data-comkey="{{$k}}" /></view></view></view><view style="display: flex;" class="_view data-v-b872088a"><view class="_view data-v-b872088a btn btn1" bindtap="handleProxy" data-eventid="{{'8d5287fc-4'}}" data-comkey="{{$k}}">提交</view><view class="_view data-v-b872088a btn" bindtap="handleProxy" data-eventid="{{'8d5287fc-5'}}" data-comkey="{{$k}}">取消</view></view></form></view></template>
+
+<template name="data-v-b872088a-default-8d5287fc-3"><button style="border-radius: 0;" type="warn" bindtap="handleProxy" data-eventid="{{'8d5287fc-7'}}" data-comkey="{{$k}}" class="_button data-v-b872088a">删除当前相册</button></template>
+
+<template name="data-v-42ed4985-default-8f0b99a4-1"><button class="_button data-v-42ed4985 pop_button" type="warn" bindtap="handleProxy" data-eventid="{{'8f0b99a4-1'}}" data-comkey="{{$k}}">删除当前照片</button><button class="_button data-v-42ed4985 pop_button" type="primary" bindtap="handleProxy" data-eventid="{{'8f0b99a4-2'}}" data-comkey="{{$k}}">下载当前照片</button></template>
+

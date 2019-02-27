@@ -1,0 +1,14 @@
+
+.uni_switch.data-v-2f35d002 {
+  -webkit-transform: scale(0.7, 0.7);
+      -ms-transform: scale(0.7, 0.7);
+          transform: scale(0.7, 0.7);
+}
+.uni-btn-v.data-v-2f35d002 {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 92%;
+  background-color: #fff;
+}
+

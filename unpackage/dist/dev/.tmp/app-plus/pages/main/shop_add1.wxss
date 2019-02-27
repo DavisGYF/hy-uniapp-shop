@@ -1,0 +1,111 @@
+.img-clip.data-v-8fb3c662 {
+  position: relative;
+  width: 95%;
+  margin: 0 auto;
+  padding: 0;
+}
+.img-clip ._canvas.data-v-8fb3c662 {
+  display: block;
+}
+.img-clip .magnifier.data-v-8fb3c662 {
+  position: absolute;
+  top: -90px;
+  right: 0;
+/**
+         * 显示的值，真实的宽高内部会设置
+         */
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
+.img-clip .clip-hidden.data-v-8fb3c662 {
+  display: none;
+}
+.img-clip .clip-rect.data-v-8fb3c662 {
+  position: absolute;
+  border: 1px dashed #de3c50;
+  top: 10px;
+  left: 10px;
+  width: 100px;
+  height: 100px;
+  cursor: move;
+}
+.img-clip .clip-rect .clip-tips.data-v-8fb3c662 {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  padding: 5px;
+  font-size: 13px;
+  background-color: #333;
+  border-radius: 5px;
+  color: #fff;
+}
+.img-clip .clip-rect-horn.data-v-8fb3c662 {
+  position: absolute;
+  display: block;
+  background-color: rgba(222,60,80,0.7);
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+}
+.img-clip .horn-n.data-v-8fb3c662 {
+  top: -10px;
+  left: 50%;
+  margin-left: -10px;
+  cursor: n-resize;
+}
+.img-clip .horn-s.data-v-8fb3c662 {
+  bottom: -10px;
+  left: 50%;
+  margin-left: -10px;
+  cursor: s-resize;
+}
+.img-clip .horn-w.data-v-8fb3c662 {
+  top: 50%;
+  left: -10px;
+  margin-top: -10px;
+  cursor: w-resize;
+}
+.img-clip .horn-e.data-v-8fb3c662 {
+  top: 50%;
+  right: -10px;
+  margin-top: -10px;
+  cursor: e-resize;
+}
+.img-clip .horn-nw.data-v-8fb3c662 {
+  top: -10px;
+  left: -10px;
+  cursor: nw-resize;
+}
+.img-clip .horn-ne.data-v-8fb3c662 {
+  top: -10px;
+  right: -10px;
+  cursor: ne-resize;
+}
+.img-clip .horn-sw.data-v-8fb3c662 {
+  bottom: -10px;
+  left: -10px;
+  cursor: sw-resize;
+}
+.img-clip .horn-se.data-v-8fb3c662 {
+  bottom: -10px;
+  right: -10px;
+  cursor: se-resize;
+}
+/* .content{padding:0 15px;background-color: white;} */
+.uni-view.data-v-8fb3c662 {
+  width: inherit;
+}
+.infoWarp.data-v-8fb3c662 {
+  border-bottom: 1px solid #c8c7cc;
+  padding: 0 40rpx;
+  background-color: #fff;
+}
+.infoWarp .uni-textarea-textarea.data-v-8fb3c662 {
+  line-height: 0.5;
+}
+.uni-input.data-v-8fb3c662 {
+  text-align: right;
+}
+
